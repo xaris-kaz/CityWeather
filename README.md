@@ -6,9 +6,10 @@ const apiKey = "yourAPIkey";
 The three files must be in the same folder with the following structure:
 
 CityWeather/
-├── index.html          
-├── ready.css           
-└── weather.js           
+
+            >-----> index.html          
+            >-----> ready.css           
+            >-----> weather.js           
 
 A sample :
 
